@@ -1,9 +1,11 @@
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
 ### Aim :
-      To pick and place a regular shape using two finger gripper on the conveyor belt 
+
+To pick and place a regular shape using two finger gripper on the conveyor belt 
+
 ### Equipment Required: 
-      Instrial manipulator , teach pendant and associated program platform , two finger dh gripper 
+Instrial manipulator , teach pendant and associated program platform , two finger dh gripper 
       
 ### Theory: 
 
@@ -36,7 +38,8 @@ Gripping & drop detection
 Force & position adjustment
 Self-locking
 
-                  ![ag-95](https://user-images.githubusercontent.com/36288975/201618444-9b5a4749-9663-464d-814b-170217763a76.png)
+![ag-95](https://user-images.githubusercontent.com/36288975/201618444-9b5a4749-9663-464d-814b-170217763a76.png)
+
 ### Figure -01 DH gripper with two finger gripper 
 
 #### Specifications
@@ -66,8 +69,6 @@ Operating temperature: 5–45 °C.
 Weight: 33 kg.
 Installation position: floor, ceiling, walls.
 
-
-
 ![download](https://user-images.githubusercontent.com/36288975/201624230-89cc83ff-cecd-49ea-84c6-c67066e9d157.jpg)
 
 ### Figure -02 Doosan M1013 industrial collaborative robot manipulator 
@@ -82,34 +83,22 @@ and click on the connect icon
 3. click on the 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### output video and screen shots of pick and place 
 
+program:
 
 
 
 
+Robo Action:
+
+![rob 8 op 1](https://user-images.githubusercontent.com/115128955/203242391-6312167b-8231-4bee-ac31-ac0da1855f08.jpg)
+
+![rob 8 op 2](https://user-images.githubusercontent.com/115128955/203242595-ac74e0dc-05e8-4c44-b29f-abf1a96d0cd3.jpg)
+
+![rob 8 op 3](https://user-images.githubusercontent.com/115128955/203242510-ab75099f-0c9d-4852-b9c5-8292f6755d02.jpg)
 
 
 ### Results: 
-
-
-
-
-
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
 
