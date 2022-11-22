@@ -87,8 +87,11 @@ and click on the connect icon
 
 program:
 
+![Rob 8 op 1 1](https://user-images.githubusercontent.com/115128955/203245629-e5c043ee-98e2-4da4-8670-c634d8d65920.jpg)
 
+![Rob 8 op 2 2](https://user-images.githubusercontent.com/115128955/203244480-92915237-2f1e-41d8-a1a8-1334cc9b6aaa.jpg)
 
+![Rob 8 op 3 3](https://user-images.githubusercontent.com/115128955/203245138-8ba5b094-ae73-4453-93e3-31b8b965ee1e.jpg)
 
 Robo Action:
 
